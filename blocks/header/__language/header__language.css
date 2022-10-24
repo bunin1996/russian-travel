@@ -1,0 +1,9 @@
+.header__language {
+  margin-bottom: 6px;
+}
+
+@media screen and (max-width: 568px) {
+  .header__language {
+    margin-bottom: 8px;
+  }
+}
