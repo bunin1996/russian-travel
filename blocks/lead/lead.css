@@ -1,0 +1,7 @@
+.lead {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Inter', 'Arial', sans-serif;
+  border: 1px solid red;
+}
