@@ -1,17 +1,17 @@
 .content {
   display: flex;
   flex-direction: column;
-  column-gap: 92px;
+  gap: 92px;
 }
 
 @media screen and (max-width: 984px) {
   .content {
-    column-gap: 88px;
+    gap: 88px;
   }
 }
 
 @media screen and (max-width: 568px) {
   .content {
-    column-gap: 64px;
+    gap: 64px;
   }
 }
