@@ -19,6 +19,7 @@
 @import url(../blocks/content/__section/_name/content__section_name_lead.css);
 @import url(../blocks/content/__section/_name/content__section_name_cover.css);
 @import url(../blocks/content/__section/_name/content__section_name_intro.css);
+@import url(../blocks/content/__section/_name/content__section_name_photo-grid.css);
 
 /* Lead */
 @import url(../blocks/lead/lead.css);
@@ -31,6 +32,13 @@
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
+
+/* Photo-grid */
+@import url(../blocks/photo-grid/photo-grid.css);
+
+/* Grid */
+@import url(../blocks/grid/grid.css);
+@import url(../blocks/grid/__item/grid__item.css);
 
 /* List */
 @import url(../blocks/list/list.css);
