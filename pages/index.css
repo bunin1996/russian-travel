@@ -10,7 +10,7 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__language/header__language.css);
 @import url(../blocks/header/__link/header__link.css);
-@import url(../blocks/header/__link/_lang/header__link_lang_en.css);
+@import url(../blocks/header/__link/_en/header__link_en.css);
 @import url(../blocks/header/__logo/header__logo.css);
 
 /* Content */
