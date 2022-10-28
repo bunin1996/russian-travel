@@ -1,0 +1,15 @@
+.footer__navigation-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: 'Inter', 'Arial', sans-serif;
+  display: flex;
+  gap: 18px;
+}
+
+@media screen and (max-width: 710px) {
+  .footer__navigation-list {
+    flex-direction: column;
+    gap: 32px;
+  }
+}
