@@ -26,12 +26,7 @@
   .place {
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     grid-template-rows: none;
+    row-gap: 32px;
   }
 }
 
-@media screen and (max-width: 568px) {
-  .place {
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    grid-template-rows: none;
-  }
-}

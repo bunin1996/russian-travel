@@ -1,3 +1,25 @@
-.grid {
+.photo-grid {
   font-family: 'Inter', 'Arial', sans-serif;
+  width: 100%;
+  display: grid;
+  gap: 16px 16px;
+  grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+}
+
+@media screen and (max-width: 1124px) {
+  .photo-grid {
+    gap: 14px 14px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .photo-grid{
+    gap: 16px 16px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .photo-grid {
+    gap: 12px 12px;
+  }
 }

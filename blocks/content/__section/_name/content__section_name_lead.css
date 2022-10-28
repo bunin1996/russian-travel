@@ -14,8 +14,3 @@
   }
 }
 
-@media screen and (max-width: 568px) {
-  .content__section_name_lead {
-    padding: 0;
-  }
-}

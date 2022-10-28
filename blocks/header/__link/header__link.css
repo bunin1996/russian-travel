@@ -6,6 +6,7 @@
   color: white;
   max-width: 30px;
   transition: 0.5s;
+  text-decoration: none;
 }
 
 .header__link:hover {
