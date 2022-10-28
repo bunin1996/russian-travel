@@ -7,6 +7,12 @@
        url("./Inter-Regular.woff?v=3.19") format("woff");
 }
 
+/*
+
+Я пересматривал макет несколько раз, но не нашел там 500 (medium), а 700 есть как раз в элементах intro__item, где нужно сделать выделение с помощью span. Также у нашего наставника во время вебинара
+не было 500 (medium), а 700 был.
+
+
 @font-face {
   font-family: 'Inter';
   font-style:  normal;
@@ -14,7 +20,7 @@
   font-display: swap;
   src: url("Inter-Medium.woff2?v=3.19") format("woff2"),
        url("Inter-Medium.woff?v=3.19") format("woff");
-}
+}*/
 
 @font-face {
   font-family: 'Inter';
